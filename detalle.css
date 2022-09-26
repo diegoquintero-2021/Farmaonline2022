@@ -1,0 +1,14 @@
+
+body {
+   background-color:  rgb(218, 210, 210);
+}
+
+.detalles {
+    display: flex;
+    flex-direction: row;
+    margin: 5px;
+}
+
+body {
+    background-color: coral;
+}

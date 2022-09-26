@@ -1,0 +1,46 @@
+
+.registrarse {
+    margin: 40px;
+}
+
+input {
+    border-radius: 20px;
+    background: #2A47B0;
+}
+
+.cajapp {
+    text-align: center;
+}
+
+.acceso {
+    display:inline-block;
+    justify-content:space-between;
+    text-align: center;
+    align-items: stretch;
+}
+
+
+body {
+    background-color: rgb(218, 210, 210);
+}
+
+.buttons {
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
+
+.buttonblue {
+    background-color: #2A47B0;
+    border-radius: 30%;
+    color: white;
+}
+
+a {
+    text-decoration: none;
+}
+
+img {
+    width: 140px;
+}
+

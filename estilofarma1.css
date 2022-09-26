@@ -1,0 +1,60 @@
+body {
+    background-color: rgb(218, 210, 210);
+}
+
+h2 {
+    color: #6b5555;
+    font-size: 36px;
+}
+
+.imagen {
+    width: 80px;
+}
+
+input {
+    border-radius: 25px;
+    background: #2A47B0;
+}
+.caja1 {
+width: 378px;
+height: 62px;
+left: 15px;
+}
+
+.caja2 {
+width: 378px;
+height: 62px;
+left: 15px;
+}
+
+.header {
+width: 80px;
+}
+
+.marca {
+    width: 100%;
+}
+
+.boton {
+    background-color: #2E9C07;
+    border-radius: 25px;
+    color: #ffffff; 
+position: absolute;
+width: 284px;
+height: 84px;
+left: 72px;
+}
+
+.acceso {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.registro {
+    margin: 40px;
+}
+
+.inicio {
+    margin: 50px;
+}

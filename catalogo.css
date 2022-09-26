@@ -1,0 +1,17 @@
+.titulo {
+    font-size: 30px;
+    display: flex;
+    flex-direction: row;
+    margin: 30px;
+    padding: 10 px;
+}
+
+body{
+    background-color: rgb(218, 210, 210);
+}
+
+button .registro{
+    margin: 30px;
+    padding: 20px;
+    background-color: black;
+}
